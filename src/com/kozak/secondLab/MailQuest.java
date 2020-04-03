@@ -7,7 +7,7 @@ import java.util.Scanner;
 
 public class MailQuest {
 
-    final static int N = 10;
+    final static int N = 6;
     final static String FILE_NAME = "/Users/ilona/IdeaProjects/DMCAD/src/com/kozak/secondLab/lab2";
 
 
