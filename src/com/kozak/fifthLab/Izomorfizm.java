@@ -18,8 +18,8 @@ public class Izomorfizm {
 
         izomorfizm();
         if (general)
-            System.out.println("it works");
-        else System.out.println("it's bad");
+            System.out.println("Ok");
+        else System.out.println("Not Ok");
 
     }
 
@@ -189,6 +189,5 @@ public class Izomorfizm {
         }
 
     }
-
 
 }
